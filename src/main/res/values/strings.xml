@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Aplikasi Converter Satuan</string>
+
+    <string-array name="nama_fitur">
+        <item>Panjang</item>
+        <item>Suhu</item>
+        <item>Massa</item>
+        <item>Luas</item>
+        <item>Volume</item>
+        <item>Satuan</item>
+        <item>Developer</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Konversi Panjang</item>
+        <item>Konversi Suhu</item>
+        <item>Konversi Massa</item>
+        <item>Konversi Luas</item>
+        <item>Konversi Volume</item>
+        <item>List Informasi Satuan</item>
+        <item>Profil pengembang</item>
+    </string-array>
+
+    <string-array name="Nama_developer">
+        <item>Harry Putra Pratama</item>
+        <item>Daniel Syah Reza</item>
+        <item>Fiqri Nurahman Yasir</item>
+        <item>Tyagi Jisnu Bagas</item>
+    </string-array>
+
+    <string-array name="NIM">
+        <item>1805551047</item>
+        <item>1805551050</item>
+        <item>1805551061</item>
+        <item>1805551068</item>
+    </string-array>
+
+    <string-array name="Satuan">
+        <item>Satuan Panjang</item>
+        <item>Satuan Suhu</item>
+        <item>Satuan Massa</item>
+        <item>Satuan Luas</item>
+        <item>Satuan Volume</item>
+    </string-array>
+
+    <string-array name="desc_satuan">
+        <item>Klik untuk melihat informasi tentang satuan panjang</item>
+        <item>Klik untuk melihat informasi tentang satuan suhu</item>
+        <item>Klik untuk melihat informasi tentang satuan massa</item>
+        <item>Klik untuk melihat informasi tentang satuan luas</item>
+        <item>Klik untuk melihat informasi tentang satuan volume</item>
+    </string-array>
+
+    <string name="panjang">Apa Itu Satuan Panjang? </string>
+    <string name="deksripsi_satuan_panjang">Satuan panjang merupakan suatu satuan yang digunakan untuk mendeskripsikan ukuran tinggi, panjang, jarak suatu benda atau objek yang diukur. Satuan panjang hampir setiap hari kita gunakan. Misalnya pada saat mengukur lebar lapangan, kedalaman sungai, ketinggian menara, jarak tempuh kendaraan, dan pengukuran panjang lainnya. Penggunaan satuan sangat penting dalam pengukuran. Tanpa adanya satuan panjang, pengukuran yang kita lakukan tidak akan dapat dipahami oleh orang lain. Tangga satuan panjang diatas digunakan untuk mempermudah dalam melakukan konversi satuan panjang. Setiap turun satu anak tangga dikali dengan 10 dan setiap naik satu anak tangga dibagi dengan 10.</string>
+    <string name="todo_panjang">TODO</string>
+
+    <string name="suhu">Apa itu Satuan Suhu? </string>
+    <string name="deskripsi_satuan_suhu">Satuan Suhu menunjukkan derajat panas benda. Semakin tinggi suhu suatu benda, semakin panas benda tersebut. Secara mikroskopis, suhu menunjukkan energi yang dimiliki oleh suatu benda. Setiap atom dalam suatu benda masing-masing bergerak, baik itu dalam bentuk perpindahan maupun gerakan di tempat getaran. Makin tingginya energi atom-atom penyusun benda, makin tinggi suhu benda tersebut. Suhu yang juga disebut temperatur dapat diukur dengan alat termometer. Empat macam termometer yang paling dikenal adalah Celsius, Reaumur, Fahrenheit dan Kelvin.</string>
+    <string name="todo_suhu">TODO</string>
+
+    <string name="massa">Apa itu Satuan Massa? </string>
+    <string name="deskripsi_satuan_massa">Massa adalah suatu sifat fisika dari suatu benda yang digunakan untuk menjelaskan berbagai perilaku objek yang terpantau. Tubuh manusia dilengkapi dengan indra-indra perasa yang membuat kita dapat merasakan berbagai fenomena-fenomena yang diasosiasikan dengan massa. Satuan berat (satuan massa) seringkali disingkat penulisannya dengan menggunakan simbol satuan. Simbol satuan berat (satuan massa) tersebut merupakan singkatan huruf-huruf pada satuan berat (satuan massa) tersebut.</string>
+    <string name="todo_massa">TODO</string>
+
+    <string name="luas">Apa itu Satuan Luas? </string>
+    <string name="deskripsi_satuan_luas">Luas, luasan, atau area adalah besaran yang menyatakan ukuran dua dimensi (dwigatra) suatu bagian permukaan yang dibatasi dengan jelas, biasanya suatu daerah yang dibatasi oleh kurva tertutup. Luas permukaan menyatakan luasan permukaan suatu benda padat tiga dimensi. Satuan luas pokok menurut Sistem Internasional adalah meter persegi sedangkan menurut sistem Imperial adalah kaki persegi.</string>
+    <string name="todo_luas">TODO</string>
+
+    <string name="volume">Apa itu Satuan Volume? </string>
+    <string name="deskripsi_satuan_volume">Volume atau bisa juga disebut kapasitas adalah penghitungan seberapa banyak ruang yang bisa ditempati dalam suatu objek. Objek itu bisa berupa benda yang beraturan ataupun benda yang tidak beraturan. Benda yang beraturan misalnya kubus, balok, silinder, limas, kerucut, dan bola. Volume juga digunakan untuk menentukan massa jenis suatu benda. Satuan SI volume adalah m3. Satuan lain yang banyak dipakai adalah liter dan ml.</string>
+    <string name="todo_volume">TODO</string>
+
+
+</resources>

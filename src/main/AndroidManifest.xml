@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tugasbesarprogmob">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoconverter"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logoconverter"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SatuanVolume"
+            android:label="Informasi Satuan Volume"
+            android:parentActivityName=".InfoSatuan"/>
+        <activity
+            android:name=".SatuanLuas"
+            android:label="Informasi Satuan Luas"
+            android:parentActivityName=".InfoSatuan" />
+        <activity
+            android:name=".SatuanMassa"
+            android:label="Informasi Satuan Massa"
+            android:parentActivityName=".InfoSatuan" />
+        <activity
+            android:name=".SatuanSuhu"
+            android:label="Informasi Satuan Suhu"
+            android:parentActivityName=".InfoSatuan" />
+        <activity
+            android:name=".SatuanPanjang"
+            android:label="Informasi Satuan Panjang"
+            android:parentActivityName=".InfoSatuan" />
+        <activity
+            android:name=".InfoSatuan"
+            android:label="Informasi Satuan"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PenghitungVolume"
+            android:label="Penghitung Volume"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PenghitungLuas"
+            android:label="Penghitung Luas"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".KonversiMassa"
+            android:label="Konversi Massa"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ProfilDeveloper"
+            android:label="Anggota Kelompok"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".KonversiPanjangtest"
+            android:label="Konversi Panjang"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".KonversiSuhu"
+            android:label="Konversi Suhu"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
